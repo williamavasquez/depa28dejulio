@@ -1,0 +1,90 @@
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img5.jpeg" alt="5 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img6.jpeg" alt="6 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img7.jpeg" alt="7 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img8.jpeg" alt="8 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img9.jpeg" alt="9 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img10.jpeg" alt="10 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img11.jpeg" alt="11 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img12.jpeg" alt="12 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img13.jpeg" alt="13 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img14.jpeg" alt="14 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img15.jpeg" alt="15 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img16.jpeg" alt="16 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img17.jpeg" alt="17 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img18.jpeg" alt="18 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img19.jpeg" alt="19 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img20.jpeg" alt="20 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img21.jpeg" alt="21 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img22.jpeg" alt="22 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img23.jpeg" alt="23 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img24.jpeg" alt="24 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img25.jpeg" alt="25 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img26.jpeg" alt="26 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img27.jpeg" alt="27 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img28.jpeg" alt="28 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img29.jpeg" alt="29 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img30.jpeg" alt="30 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img31.jpeg" alt="31 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img32.jpeg" alt="32 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img33.jpeg" alt="33 slide">
+    </div>
+<div class="carousel-item">
+      <img class="d-block w-100" src="./imgs/img34.jpeg" alt="34 slide">
+    </div>

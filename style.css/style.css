@@ -1,8 +1,19 @@
 .page-header {
   padding: 20px 0;
+  text-align: center;
 }
 
 .text-container {
   padding: 20px 0;
+  text-transform: capitalize;
 }
 
+.carousel-container {
+}
+
+
+.carousel-inner > .carousel-item > img,
+.carousel-inner > .item > a > img {
+  max-height: 730px;    /* Set slide height here */
+
+}
